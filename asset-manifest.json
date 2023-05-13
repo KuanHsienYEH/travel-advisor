@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/travel_advisor/static/js/main.d7651f36.js",
-    "index.html": "/travel_advisor/index.html",
-    "main.d7651f36.js.map": "/travel_advisor/static/js/main.d7651f36.js.map"
+    "main.js": "/travel-advisor/static/js/main.d7651f36.js",
+    "index.html": "/travel-advisor/index.html",
+    "main.d7651f36.js.map": "/travel-advisor/static/js/main.d7651f36.js.map"
   },
   "entrypoints": [
     "static/js/main.d7651f36.js"
