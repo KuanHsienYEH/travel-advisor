@@ -1,5 +1,5 @@
 # React Travel Advisor
 
-demo : https://sam-travel-advisor.herokuapp.com/
+demo : https://kuanhsienyeh.github.io/travel-advisor/
 
 tech stack : mateiral-ui, react, google api
